@@ -1,0 +1,151 @@
+document_id,client_id,document_type,verification_status,upload_date
+1,1,Utility Bill,Failed,2025-02-18
+2,2,Bank Statement,Failed,2025-05-09
+3,3,Passport,Verified,2025-09-06
+4,4,Utility Bill,Verified,2025-02-26
+5,5,Utility Bill,Verified,2024-10-14
+6,6,Bank Statement,Pending,2025-08-24
+7,7,Passport,Verified,2025-01-23
+8,8,Passport,Verified,2025-01-04
+9,9,Utility Bill,Verified,2025-09-17
+10,10,ID Card,Verified,2025-03-02
+11,11,Utility Bill,Verified,2025-01-10
+12,12,Utility Bill,Failed,2025-01-01
+13,13,Utility Bill,Verified,2025-07-09
+14,14,Utility Bill,Pending,2025-01-03
+15,15,Bank Statement,Verified,2024-12-01
+16,16,Passport,Verified,2024-12-14
+17,17,Bank Statement,Failed,2025-05-20
+18,18,Bank Statement,Failed,2025-10-10
+19,19,Bank Statement,Verified,2025-09-09
+20,20,Utility Bill,Failed,2025-04-05
+21,21,ID Card,Verified,2025-08-26
+22,22,Passport,Verified,2025-09-27
+23,23,ID Card,Verified,2025-04-25
+24,24,Bank Statement,Verified,2025-03-08
+25,25,Bank Statement,Verified,2025-05-09
+26,26,ID Card,Verified,2025-08-29
+27,27,ID Card,Verified,2025-10-08
+28,28,ID Card,Verified,2025-07-07
+29,29,Bank Statement,Verified,2025-02-23
+30,30,Bank Statement,Pending,2025-09-07
+31,31,Passport,Verified,2025-01-07
+32,32,Passport,Verified,2024-10-30
+33,33,Bank Statement,Failed,2024-12-16
+34,34,ID Card,Verified,2025-04-16
+35,35,ID Card,Verified,2025-07-11
+36,36,Passport,Verified,2025-07-07
+37,37,Bank Statement,Verified,2025-04-09
+38,38,Passport,Pending,2025-06-20
+39,39,Passport,Failed,2025-04-06
+40,40,Utility Bill,Verified,2025-02-03
+41,41,Utility Bill,Pending,2025-05-06
+42,42,Utility Bill,Failed,2025-01-31
+43,43,ID Card,Verified,2024-11-25
+44,44,Bank Statement,Pending,2025-06-08
+45,45,Bank Statement,Verified,2025-09-26
+46,46,Bank Statement,Failed,2025-01-06
+47,47,Bank Statement,Pending,2025-03-05
+48,48,Utility Bill,Verified,2025-08-21
+49,49,ID Card,Verified,2025-08-17
+50,50,ID Card,Verified,2024-11-25
+51,51,Utility Bill,Verified,2024-10-19
+52,52,ID Card,Failed,2025-04-23
+53,53,Utility Bill,Pending,2025-01-07
+54,54,Bank Statement,Verified,2025-06-22
+55,55,Utility Bill,Verified,2024-12-30
+56,56,Bank Statement,Verified,2024-11-06
+57,57,Bank Statement,Verified,2025-05-16
+58,58,Passport,Verified,2025-06-09
+59,59,Utility Bill,Verified,2025-05-12
+60,60,Passport,Pending,2025-01-14
+61,61,Utility Bill,Verified,2025-07-02
+62,62,Utility Bill,Verified,2024-12-19
+63,63,Passport,Failed,2025-02-10
+64,64,Passport,Verified,2025-04-21
+65,65,Utility Bill,Pending,2025-09-05
+66,66,ID Card,Pending,2025-04-27
+67,67,Bank Statement,Verified,2025-02-09
+68,68,Passport,Verified,2025-09-18
+69,69,Bank Statement,Verified,2024-10-24
+70,70,ID Card,Verified,2024-12-12
+71,71,ID Card,Verified,2025-10-01
+72,72,ID Card,Verified,2024-12-02
+73,73,Passport,Verified,2024-12-05
+74,74,ID Card,Verified,2025-09-08
+75,75,Passport,Verified,2025-04-24
+76,76,ID Card,Pending,2025-09-24
+77,77,Bank Statement,Verified,2024-11-27
+78,78,Bank Statement,Verified,2025-01-23
+79,79,Utility Bill,Verified,2025-05-25
+80,80,Bank Statement,Pending,2025-05-24
+81,81,Utility Bill,Verified,2025-07-14
+82,82,Bank Statement,Verified,2024-10-25
+83,83,Passport,Failed,2024-11-26
+84,84,Bank Statement,Verified,2024-12-30
+85,85,Utility Bill,Failed,2025-03-13
+86,86,Utility Bill,Verified,2024-11-06
+87,87,ID Card,Verified,2025-08-24
+88,88,Passport,Verified,2025-05-14
+89,89,Bank Statement,Verified,2025-04-11
+90,90,ID Card,Verified,2025-08-12
+91,91,Bank Statement,Failed,2025-04-07
+92,92,Bank Statement,Verified,2025-06-11
+93,93,ID Card,Verified,2025-05-17
+94,94,ID Card,Verified,2024-12-04
+95,95,ID Card,Verified,2025-08-17
+96,96,ID Card,Verified,2024-11-06
+97,97,ID Card,Verified,2024-12-13
+98,98,Bank Statement,Verified,2025-04-17
+99,99,ID Card,Verified,2025-04-27
+100,100,Passport,Verified,2024-11-22
+101,101,Utility Bill,Verified,2025-01-16
+102,102,ID Card,Verified,2025-08-21
+103,103,ID Card,Verified,2025-07-05
+104,104,Bank Statement,Pending,2025-01-23
+105,105,ID Card,Verified,2025-08-22
+106,106,ID Card,Verified,2025-08-15
+107,107,ID Card,Verified,2025-06-28
+108,108,Bank Statement,Pending,2025-10-09
+109,109,ID Card,Pending,2025-07-03
+110,110,Utility Bill,Verified,2025-04-01
+111,111,Bank Statement,Verified,2025-01-25
+112,112,Utility Bill,Failed,2024-10-14
+113,113,Bank Statement,Verified,2024-10-29
+114,114,ID Card,Verified,2025-08-28
+115,115,Utility Bill,Verified,2024-10-24
+116,116,Bank Statement,Verified,2024-12-07
+117,117,Passport,Pending,2024-12-10
+118,118,ID Card,Pending,2025-05-23
+119,119,Bank Statement,Verified,2025-01-18
+120,120,Passport,Verified,2025-06-12
+121,121,Bank Statement,Verified,2025-06-30
+122,122,Passport,Failed,2025-05-09
+123,123,ID Card,Pending,2025-05-20
+124,124,Utility Bill,Pending,2025-05-22
+125,125,Passport,Failed,2025-06-16
+126,126,Bank Statement,Verified,2024-11-29
+127,127,ID Card,Verified,2025-01-12
+128,128,Passport,Verified,2025-07-14
+129,129,Bank Statement,Pending,2025-08-17
+130,130,Bank Statement,Verified,2024-11-02
+131,131,Bank Statement,Verified,2025-02-27
+132,132,Passport,Verified,2025-06-19
+133,133,Passport,Verified,2024-11-30
+134,134,Passport,Verified,2025-01-08
+135,135,Utility Bill,Verified,2025-06-09
+136,136,Passport,Verified,2025-06-07
+137,137,Passport,Verified,2025-08-17
+138,138,Passport,Verified,2025-06-14
+139,139,Utility Bill,Verified,2025-10-13
+140,140,Passport,Failed,2025-02-17
+141,141,Bank Statement,Verified,2024-12-28
+142,142,Passport,Verified,2025-07-10
+143,143,Bank Statement,Failed,2025-06-10
+144,144,Bank Statement,Verified,2025-06-18
+145,145,Bank Statement,Failed,2025-08-27
+146,146,Utility Bill,Verified,2025-07-17
+147,147,Utility Bill,Verified,2025-02-19
+148,148,Utility Bill,Verified,2025-01-15
+149,149,Passport,Verified,2025-04-08
+150,150,Bank Statement,Verified,2025-04-05

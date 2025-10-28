@@ -1,0 +1,151 @@
+client_id,name,country,kyc_status,total_risk_score,triggered_rules
+1,Client_1,Russia,Under Review,2.15,"Unverified KYC(0.7), Document Verification Failed(0.85), Frequent cross-border transactions(0.6)"
+2,Client_2,Nigeria,Under Review,2.15,"Unverified KYC(0.7), Document Verification Failed(0.85), Frequent cross-border transactions(0.6)"
+3,Client_3,Russia,Verified,0.0,None
+4,Client_4,Australia,Verified,0.0,None
+5,Client_5,Nigeria,Verified,0.0,None
+6,Client_6,Russia,Pending,1.2999999999999998,"Unverified KYC(0.7), Frequent cross-border transactions(0.6)"
+7,Client_7,Nigeria,Verified,0.0,None
+8,Client_8,Nigeria,Verified,0.6,Frequent cross-border transactions(0.6)
+9,Client_9,Switzerland,Verified,0.0,None
+10,Client_10,Germany,Verified,1.5,"Frequent cross-border transactions(0.6), Transactions to high-risk countries(0.9)"
+11,Client_11,Germany,Verified,0.0,None
+12,Client_12,Switzerland,Under Review,1.5499999999999998,"Unverified KYC(0.7), Document Verification Failed(0.85)"
+13,Client_13,Canada,Verified,0.6,Frequent cross-border transactions(0.6)
+14,Client_14,UK,Pending,1.2999999999999998,"Unverified KYC(0.7), Frequent cross-border transactions(0.6)"
+15,Client_15,Canada,Verified,0.0,None
+16,Client_16,USA,Verified,0.6,Frequent cross-border transactions(0.6)
+17,Client_17,USA,Under Review,2.15,"Unverified KYC(0.7), Document Verification Failed(0.85), Frequent cross-border transactions(0.6)"
+18,Client_18,Nigeria,Under Review,1.5499999999999998,"Unverified KYC(0.7), Document Verification Failed(0.85)"
+19,Client_19,Russia,Verified,0.0,None
+20,Client_20,Russia,Under Review,2.15,"Unverified KYC(0.7), Multiple Failed Transactions(0.6), Document Verification Failed(0.85)"
+21,Client_21,Germany,Verified,1.5,"Frequent cross-border transactions(0.6), Transactions to high-risk countries(0.9)"
+22,Client_22,China,Verified,0.6,Frequent cross-border transactions(0.6)
+23,Client_23,Canada,Verified,0.0,None
+24,Client_24,Australia,Verified,1.5,"Frequent cross-border transactions(0.6), Transactions to high-risk countries(0.9)"
+25,Client_25,UAE,Verified,0.9,Transactions to high-risk countries(0.9)
+26,Client_26,Russia,Verified,0.0,None
+27,Client_27,UAE,Verified,0.0,None
+28,Client_28,Nigeria,Verified,0.0,None
+29,Client_29,UAE,Verified,1.5,"Frequent cross-border transactions(0.6), Transactions to high-risk countries(0.9)"
+30,Client_30,Australia,Pending,0.7,Unverified KYC(0.7)
+31,Client_31,Switzerland,Verified,0.0,None
+32,Client_32,Australia,Verified,0.0,None
+33,Client_33,UAE,Under Review,3.05,"Unverified KYC(0.7), Document Verification Failed(0.85), Frequent cross-border transactions(0.6), Transactions to high-risk countries(0.9)"
+34,Client_34,Australia,Verified,0.9,Transactions to high-risk countries(0.9)
+35,Client_35,UK,Verified,1.5,"Frequent cross-border transactions(0.6), Transactions to high-risk countries(0.9)"
+36,Client_36,Nigeria,Verified,0.6,Frequent cross-border transactions(0.6)
+37,Client_37,Canada,Verified,0.0,None
+38,Client_38,Switzerland,Pending,2.1999999999999997,"Unverified KYC(0.7), Frequent cross-border transactions(0.6), Transactions to high-risk countries(0.9)"
+39,Client_39,Russia,Under Review,2.15,"Unverified KYC(0.7), Document Verification Failed(0.85), Frequent cross-border transactions(0.6)"
+40,Client_40,USA,Verified,0.0,None
+41,Client_41,Canada,Pending,1.2999999999999998,"Unverified KYC(0.7), Frequent cross-border transactions(0.6)"
+42,Client_42,USA,Under Review,1.5499999999999998,"Unverified KYC(0.7), Document Verification Failed(0.85)"
+43,Client_43,Nigeria,Verified,0.0,None
+44,Client_44,Switzerland,Pending,0.7,Unverified KYC(0.7)
+45,Client_45,Germany,Verified,2.1,"Multiple Failed Transactions(0.6), Frequent cross-border transactions(0.6), Transactions to high-risk countries(0.9)"
+46,Client_46,Russia,Under Review,2.15,"Unverified KYC(0.7), Document Verification Failed(0.85), Frequent cross-border transactions(0.6)"
+47,Client_47,UK,Pending,0.7,Unverified KYC(0.7)
+48,Client_48,Germany,Verified,1.2,"Multiple Failed Transactions(0.6), Frequent cross-border transactions(0.6)"
+49,Client_49,Nigeria,Verified,0.0,None
+50,Client_50,Canada,Verified,0.6,Frequent cross-border transactions(0.6)
+51,Client_51,UK,Verified,0.6,Frequent cross-border transactions(0.6)
+52,Client_52,Australia,Under Review,1.5499999999999998,"Unverified KYC(0.7), Document Verification Failed(0.85)"
+53,Client_53,UAE,Pending,1.2999999999999998,"Unverified KYC(0.7), Frequent cross-border transactions(0.6)"
+54,Client_54,UK,Verified,0.6,Frequent cross-border transactions(0.6)
+55,Client_55,Nigeria,Verified,0.6,Frequent cross-border transactions(0.6)
+56,Client_56,China,Verified,0.0,None
+57,Client_57,UAE,Verified,0.6,Frequent cross-border transactions(0.6)
+58,Client_58,USA,Verified,0.6,Multiple Failed Transactions(0.6)
+59,Client_59,Russia,Verified,0.6,Frequent cross-border transactions(0.6)
+60,Client_60,USA,Pending,1.9,"Unverified KYC(0.7), Multiple Failed Transactions(0.6), Frequent cross-border transactions(0.6)"
+61,Client_61,UK,Verified,0.0,None
+62,Client_62,USA,Verified,0.6,Frequent cross-border transactions(0.6)
+63,Client_63,Nigeria,Under Review,1.5499999999999998,"Unverified KYC(0.7), Document Verification Failed(0.85)"
+64,Client_64,Australia,Verified,0.0,None
+65,Client_65,Canada,Pending,1.2999999999999998,"Unverified KYC(0.7), Frequent cross-border transactions(0.6)"
+66,Client_66,Russia,Pending,1.9,"Unverified KYC(0.7), Multiple Failed Transactions(0.6), Frequent cross-border transactions(0.6)"
+67,Client_67,USA,Verified,0.0,None
+68,Client_68,USA,Verified,0.0,None
+69,Client_69,UK,Verified,0.6,Frequent cross-border transactions(0.6)
+70,Client_70,Canada,Verified,0.0,None
+71,Client_71,Germany,Verified,0.0,None
+72,Client_72,USA,Verified,0.6,Frequent cross-border transactions(0.6)
+73,Client_73,Nigeria,Verified,0.6,Frequent cross-border transactions(0.6)
+74,Client_74,China,Verified,0.0,None
+75,Client_75,Russia,Verified,0.0,None
+76,Client_76,USA,Pending,2.1999999999999997,"Unverified KYC(0.7), Frequent cross-border transactions(0.6), Transactions to high-risk countries(0.9)"
+77,Client_77,Nigeria,Verified,0.0,None
+78,Client_78,Nigeria,Verified,1.2,"Multiple Failed Transactions(0.6), Frequent cross-border transactions(0.6)"
+79,Client_79,Russia,Verified,0.0,None
+80,Client_80,Germany,Pending,0.7,Unverified KYC(0.7)
+81,Client_81,Nigeria,Verified,0.0,None
+82,Client_82,China,Verified,0.0,None
+83,Client_83,Nigeria,Under Review,1.5499999999999998,"Unverified KYC(0.7), Document Verification Failed(0.85)"
+84,Client_84,Nigeria,Verified,0.6,Frequent cross-border transactions(0.6)
+85,Client_85,Nigeria,Under Review,2.15,"Unverified KYC(0.7), Document Verification Failed(0.85), Frequent cross-border transactions(0.6)"
+86,Client_86,Australia,Verified,0.0,None
+87,Client_87,Australia,Verified,0.6,Frequent cross-border transactions(0.6)
+88,Client_88,Germany,Verified,0.0,None
+89,Client_89,USA,Verified,0.0,None
+90,Client_90,Nigeria,Verified,0.6,Frequent cross-border transactions(0.6)
+91,Client_91,Canada,Under Review,2.15,"Unverified KYC(0.7), Document Verification Failed(0.85), Frequent cross-border transactions(0.6)"
+92,Client_92,USA,Verified,0.0,None
+93,Client_93,Germany,Verified,0.0,None
+94,Client_94,Switzerland,Verified,0.6,Frequent cross-border transactions(0.6)
+95,Client_95,USA,Verified,0.6,Frequent cross-border transactions(0.6)
+96,Client_96,USA,Verified,0.6,Frequent cross-border transactions(0.6)
+97,Client_97,UAE,Verified,0.0,None
+98,Client_98,UK,Verified,0.0,None
+99,Client_99,UAE,Verified,0.0,None
+100,Client_100,China,Verified,0.0,None
+101,Client_101,Australia,Verified,0.0,None
+102,Client_102,Australia,Verified,0.6,Frequent cross-border transactions(0.6)
+103,Client_103,UK,Verified,0.6,Frequent cross-border transactions(0.6)
+104,Client_104,Russia,Pending,1.9,"Unverified KYC(0.7), Multiple Failed Transactions(0.6), Frequent cross-border transactions(0.6)"
+105,Client_105,Russia,Verified,0.6,Frequent cross-border transactions(0.6)
+106,Client_106,Germany,Verified,0.6,Frequent cross-border transactions(0.6)
+107,Client_107,UK,Verified,1.5,"Frequent cross-border transactions(0.6), Transactions to high-risk countries(0.9)"
+108,Client_108,USA,Pending,0.7,Unverified KYC(0.7)
+109,Client_109,Russia,Pending,0.7,Unverified KYC(0.7)
+110,Client_110,Nigeria,Verified,0.0,None
+111,Client_111,Canada,Verified,1.5,"Frequent cross-border transactions(0.6), Transactions to high-risk countries(0.9)"
+112,Client_112,USA,Under Review,1.5499999999999998,"Unverified KYC(0.7), Document Verification Failed(0.85)"
+113,Client_113,China,Verified,2.1,"Multiple Failed Transactions(0.6), Frequent cross-border transactions(0.6), Transactions to high-risk countries(0.9)"
+114,Client_114,Nigeria,Verified,0.6,Frequent cross-border transactions(0.6)
+115,Client_115,Nigeria,Verified,0.6,Frequent cross-border transactions(0.6)
+116,Client_116,UK,Verified,0.0,None
+117,Client_117,Germany,Pending,0.7,Unverified KYC(0.7)
+118,Client_118,China,Pending,0.7,Unverified KYC(0.7)
+119,Client_119,Russia,Verified,0.0,None
+120,Client_120,UK,Verified,0.0,None
+121,Client_121,Russia,Verified,0.6,Frequent cross-border transactions(0.6)
+122,Client_122,UK,Under Review,1.5499999999999998,"Unverified KYC(0.7), Document Verification Failed(0.85)"
+123,Client_123,UK,Pending,1.2999999999999998,"Unverified KYC(0.7), Frequent cross-border transactions(0.6)"
+124,Client_124,UK,Pending,1.2999999999999998,"Unverified KYC(0.7), Frequent cross-border transactions(0.6)"
+125,Client_125,Germany,Under Review,2.15,"Unverified KYC(0.7), Document Verification Failed(0.85), Frequent cross-border transactions(0.6)"
+126,Client_126,UK,Verified,0.0,None
+127,Client_127,Switzerland,Verified,0.6,Frequent cross-border transactions(0.6)
+128,Client_128,Canada,Verified,0.0,None
+129,Client_129,Russia,Pending,0.7,Unverified KYC(0.7)
+130,Client_130,USA,Verified,0.6,Frequent cross-border transactions(0.6)
+131,Client_131,UAE,Verified,0.0,None
+132,Client_132,China,Verified,1.5,"Frequent cross-border transactions(0.6), Transactions to high-risk countries(0.9)"
+133,Client_133,Australia,Verified,0.0,None
+134,Client_134,Germany,Verified,0.0,None
+135,Client_135,USA,Verified,0.0,None
+136,Client_136,Nigeria,Verified,0.0,None
+137,Client_137,Switzerland,Verified,0.6,Frequent cross-border transactions(0.6)
+138,Client_138,Australia,Verified,1.5,"Frequent cross-border transactions(0.6), Transactions to high-risk countries(0.9)"
+139,Client_139,UAE,Verified,0.0,None
+140,Client_140,USA,Under Review,1.5499999999999998,"Unverified KYC(0.7), Document Verification Failed(0.85)"
+141,Client_141,Australia,Verified,1.5,"Frequent cross-border transactions(0.6), Transactions to high-risk countries(0.9)"
+142,Client_142,USA,Verified,0.0,None
+143,Client_143,Switzerland,Under Review,3.05,"Unverified KYC(0.7), Document Verification Failed(0.85), Frequent cross-border transactions(0.6), Transactions to high-risk countries(0.9)"
+144,Client_144,UAE,Verified,0.0,None
+145,Client_145,Nigeria,Under Review,1.5499999999999998,"Unverified KYC(0.7), Document Verification Failed(0.85)"
+146,Client_146,UK,Verified,0.0,None
+147,Client_147,Russia,Verified,0.6,Frequent cross-border transactions(0.6)
+148,Client_148,Nigeria,Verified,0.0,None
+149,Client_149,UK,Verified,0.0,None
+150,Client_150,Germany,Verified,0.0,None

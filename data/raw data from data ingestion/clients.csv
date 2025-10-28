@@ -1,0 +1,151 @@
+client_id,name,date_of_birth,age,country,email,registration_date,kyc_status,customer_type
+1,Client_1,1974-05-07,51,Russia,client1@example.com,2025-06-24,Under Review,Individual
+2,Client_2,1954-05-10,71,Nigeria,client2@example.com,2025-02-06,Under Review,Business
+3,Client_3,1959-05-23,66,Russia,client3@example.com,2025-05-15,Verified,Corporate
+4,Client_4,1978-07-17,47,Australia,client4@example.com,2025-04-13,Verified,Corporate
+5,Client_5,1996-03-15,29,Nigeria,client5@example.com,2024-11-11,Verified,Business
+6,Client_6,1991-03-15,34,Russia,client6@example.com,2025-07-10,Pending,Corporate
+7,Client_7,1964-06-06,61,Nigeria,client7@example.com,2025-10-05,Verified,Individual
+8,Client_8,1980-12-10,44,Nigeria,client8@example.com,2024-10-18,Verified,Individual
+9,Client_9,1974-12-20,50,Switzerland,client9@example.com,2025-04-12,Verified,Business
+10,Client_10,1969-11-01,55,Germany,client10@example.com,2025-01-05,Verified,Business
+11,Client_11,1964-05-25,61,Germany,client11@example.com,2025-04-01,Verified,Business
+12,Client_12,1964-07-15,61,Switzerland,client12@example.com,2024-10-26,Under Review,Corporate
+13,Client_13,1970-04-09,55,Canada,client13@example.com,2025-04-01,Verified,Individual
+14,Client_14,1972-03-03,53,UK,client14@example.com,2025-05-11,Pending,Individual
+15,Client_15,1994-01-05,31,Canada,client15@example.com,2025-07-12,Verified,Corporate
+16,Client_16,1988-08-11,37,USA,client16@example.com,2025-05-06,Verified,Individual
+17,Client_17,1984-09-12,41,USA,client17@example.com,2025-08-13,Under Review,Business
+18,Client_18,1962-04-13,63,Nigeria,client18@example.com,2025-06-13,Under Review,Business
+19,Client_19,1992-12-31,32,Russia,client19@example.com,2025-08-23,Verified,Business
+20,Client_20,1980-07-26,45,Russia,client20@example.com,2025-01-09,Under Review,Individual
+21,Client_21,1968-02-28,57,Germany,client21@example.com,2025-10-08,Verified,Business
+22,Client_22,1993-12-26,31,China,client22@example.com,2025-07-13,Verified,Corporate
+23,Client_23,1973-11-27,51,Canada,client23@example.com,2025-04-26,Verified,Corporate
+24,Client_24,1975-08-05,50,Australia,client24@example.com,2024-11-30,Verified,Individual
+25,Client_25,1974-09-06,51,UAE,client25@example.com,2025-09-21,Verified,Corporate
+26,Client_26,1955-12-31,69,Russia,client26@example.com,2024-11-21,Verified,Corporate
+27,Client_27,1988-03-05,37,UAE,client27@example.com,2025-10-12,Verified,Individual
+28,Client_28,1984-09-15,41,Nigeria,client28@example.com,2025-06-02,Verified,Business
+29,Client_29,1956-01-17,69,UAE,client29@example.com,2025-02-22,Verified,Business
+30,Client_30,1998-06-21,27,Australia,client30@example.com,2025-10-01,Pending,Business
+31,Client_31,1951-04-29,74,Switzerland,client31@example.com,2024-11-01,Verified,Individual
+32,Client_32,1982-02-03,43,Australia,client32@example.com,2025-08-28,Verified,Corporate
+33,Client_33,1968-02-12,57,UAE,client33@example.com,2025-09-09,Under Review,Business
+34,Client_34,1994-02-26,31,Australia,client34@example.com,2025-07-27,Verified,Business
+35,Client_35,1989-11-06,35,UK,client35@example.com,2025-03-09,Verified,Individual
+36,Client_36,1986-12-20,38,Nigeria,client36@example.com,2024-12-16,Verified,Business
+37,Client_37,1993-04-21,32,Canada,client37@example.com,2025-08-01,Verified,Individual
+38,Client_38,1986-01-19,39,Switzerland,client38@example.com,2025-01-04,Pending,Corporate
+39,Client_39,1978-11-22,46,Russia,client39@example.com,2025-02-06,Under Review,Individual
+40,Client_40,1985-08-23,40,USA,client40@example.com,2025-08-27,Verified,Individual
+41,Client_41,1963-11-24,61,Canada,client41@example.com,2025-06-14,Pending,Individual
+42,Client_42,1990-02-01,35,USA,client42@example.com,2025-03-13,Under Review,Individual
+43,Client_43,1953-01-09,72,Nigeria,client43@example.com,2025-02-16,Verified,Corporate
+44,Client_44,1971-09-06,54,Switzerland,client44@example.com,2025-08-18,Pending,Corporate
+45,Client_45,1985-02-14,40,Germany,client45@example.com,2024-10-28,Verified,Business
+46,Client_46,1991-07-26,34,Russia,client46@example.com,2025-06-28,Under Review,Corporate
+47,Client_47,1967-07-04,58,UK,client47@example.com,2024-11-28,Pending,Corporate
+48,Client_48,1995-02-06,30,Germany,client48@example.com,2025-08-26,Verified,Business
+49,Client_49,1956-03-23,69,Nigeria,client49@example.com,2025-08-13,Verified,Corporate
+50,Client_50,1958-11-24,66,Canada,client50@example.com,2024-11-10,Verified,Individual
+51,Client_51,1973-12-03,51,UK,client51@example.com,2025-09-17,Verified,Individual
+52,Client_52,1969-12-20,55,Australia,client52@example.com,2024-12-25,Under Review,Business
+53,Client_53,1999-08-29,26,UAE,client53@example.com,2025-01-29,Pending,Business
+54,Client_54,1976-09-07,49,UK,client54@example.com,2025-10-05,Verified,Business
+55,Client_55,1991-11-09,33,Nigeria,client55@example.com,2025-06-22,Verified,Individual
+56,Client_56,1953-09-07,72,China,client56@example.com,2024-10-23,Verified,Corporate
+57,Client_57,1985-01-26,40,UAE,client57@example.com,2025-02-02,Verified,Individual
+58,Client_58,1969-10-04,56,USA,client58@example.com,2025-04-16,Verified,Business
+59,Client_59,1999-09-03,26,Russia,client59@example.com,2025-03-20,Verified,Corporate
+60,Client_60,1980-02-24,45,USA,client60@example.com,2024-12-14,Pending,Corporate
+61,Client_61,1980-01-11,45,UK,client61@example.com,2025-06-08,Verified,Individual
+62,Client_62,1998-10-22,26,USA,client62@example.com,2025-08-18,Verified,Business
+63,Client_63,1968-11-19,56,Nigeria,client63@example.com,2025-03-13,Under Review,Individual
+64,Client_64,1984-05-28,41,Australia,client64@example.com,2025-09-29,Verified,Corporate
+65,Client_65,1992-09-04,33,Canada,client65@example.com,2025-09-15,Pending,Individual
+66,Client_66,1961-01-10,64,Russia,client66@example.com,2025-07-27,Pending,Individual
+67,Client_67,1956-11-11,68,USA,client67@example.com,2025-03-11,Verified,Business
+68,Client_68,1952-11-14,72,USA,client68@example.com,2025-05-12,Verified,Business
+69,Client_69,1951-08-23,74,UK,client69@example.com,2025-09-29,Verified,Corporate
+70,Client_70,1986-11-29,38,Canada,client70@example.com,2025-04-09,Verified,Individual
+71,Client_71,1986-10-29,38,Germany,client71@example.com,2024-12-05,Verified,Individual
+72,Client_72,1994-12-07,30,USA,client72@example.com,2025-10-06,Verified,Individual
+73,Client_73,1980-08-28,45,Nigeria,client73@example.com,2025-10-10,Verified,Corporate
+74,Client_74,1967-10-30,57,China,client74@example.com,2025-06-24,Verified,Corporate
+75,Client_75,1991-05-20,34,Russia,client75@example.com,2025-02-17,Verified,Business
+76,Client_76,1985-05-07,40,USA,client76@example.com,2024-10-15,Pending,Business
+77,Client_77,1972-01-02,53,Nigeria,client77@example.com,2025-02-16,Verified,Business
+78,Client_78,1960-12-16,64,Nigeria,client78@example.com,2025-01-12,Verified,Individual
+79,Client_79,1992-10-27,32,Russia,client79@example.com,2024-12-23,Verified,Individual
+80,Client_80,1963-08-11,62,Germany,client80@example.com,2025-02-28,Pending,Business
+81,Client_81,1967-07-21,58,Nigeria,client81@example.com,2025-09-28,Verified,Individual
+82,Client_82,1961-05-20,64,China,client82@example.com,2025-04-04,Verified,Business
+83,Client_83,1976-09-28,49,Nigeria,client83@example.com,2025-06-16,Under Review,Corporate
+84,Client_84,1961-12-12,63,Nigeria,client84@example.com,2025-09-15,Verified,Business
+85,Client_85,1998-10-22,26,Nigeria,client85@example.com,2025-03-25,Under Review,Corporate
+86,Client_86,1952-03-16,73,Australia,client86@example.com,2025-09-04,Verified,Individual
+87,Client_87,1998-11-21,26,Australia,client87@example.com,2025-01-13,Verified,Business
+88,Client_88,1981-02-15,44,Germany,client88@example.com,2025-02-24,Verified,Individual
+89,Client_89,1961-01-25,64,USA,client89@example.com,2025-07-19,Verified,Corporate
+90,Client_90,1962-09-06,63,Nigeria,client90@example.com,2025-06-09,Verified,Corporate
+91,Client_91,1954-11-11,70,Canada,client91@example.com,2024-12-17,Under Review,Corporate
+92,Client_92,1980-07-16,45,USA,client92@example.com,2025-09-18,Verified,Individual
+93,Client_93,1989-05-19,36,Germany,client93@example.com,2025-05-21,Verified,Individual
+94,Client_94,1988-11-11,36,Switzerland,client94@example.com,2025-09-30,Verified,Individual
+95,Client_95,1993-12-13,31,USA,client95@example.com,2025-03-15,Verified,Individual
+96,Client_96,1953-12-24,71,USA,client96@example.com,2025-09-18,Verified,Corporate
+97,Client_97,1985-10-12,40,UAE,client97@example.com,2025-08-06,Verified,Corporate
+98,Client_98,1977-12-24,47,UK,client98@example.com,2025-08-07,Verified,Business
+99,Client_99,1988-07-03,37,UAE,client99@example.com,2025-02-22,Verified,Business
+100,Client_100,1970-04-30,55,China,client100@example.com,2025-06-26,Verified,Individual
+101,Client_101,1979-11-08,45,Australia,client101@example.com,2025-05-20,Verified,Corporate
+102,Client_102,1997-08-09,28,Australia,client102@example.com,2025-06-24,Verified,Corporate
+103,Client_103,1997-11-22,27,UK,client103@example.com,2025-02-27,Verified,Corporate
+104,Client_104,1970-03-17,55,Russia,client104@example.com,2025-06-24,Pending,Business
+105,Client_105,1987-11-08,37,Russia,client105@example.com,2025-09-09,Verified,Business
+106,Client_106,1975-03-17,50,Germany,client106@example.com,2025-06-24,Verified,Corporate
+107,Client_107,1986-03-13,39,UK,client107@example.com,2025-01-22,Verified,Corporate
+108,Client_108,1976-05-14,49,USA,client108@example.com,2025-02-19,Pending,Corporate
+109,Client_109,1988-12-11,36,Russia,client109@example.com,2025-07-22,Pending,Business
+110,Client_110,1982-03-07,43,Nigeria,client110@example.com,2025-09-01,Verified,Corporate
+111,Client_111,1987-07-14,38,Canada,client111@example.com,2025-07-04,Verified,Corporate
+112,Client_112,1982-05-16,43,USA,client112@example.com,2025-10-07,Under Review,Individual
+113,Client_113,1958-09-22,67,China,client113@example.com,2025-04-16,Verified,Individual
+114,Client_114,1953-05-02,72,Nigeria,client114@example.com,2025-01-04,Verified,Business
+115,Client_115,1993-11-06,31,Nigeria,client115@example.com,2024-11-27,Verified,Corporate
+116,Client_116,1981-06-25,44,UK,client116@example.com,2025-03-01,Verified,Corporate
+117,Client_117,1969-04-09,56,Germany,client117@example.com,2024-12-02,Pending,Individual
+118,Client_118,1969-05-02,56,China,client118@example.com,2025-02-26,Pending,Business
+119,Client_119,1996-07-30,29,Russia,client119@example.com,2024-12-28,Verified,Individual
+120,Client_120,1962-07-27,63,UK,client120@example.com,2025-05-16,Verified,Individual
+121,Client_121,1952-09-06,73,Russia,client121@example.com,2025-01-09,Verified,Individual
+122,Client_122,1983-07-08,42,UK,client122@example.com,2025-03-29,Under Review,Individual
+123,Client_123,1951-09-23,74,UK,client123@example.com,2025-08-04,Pending,Corporate
+124,Client_124,1962-12-31,62,UK,client124@example.com,2025-06-23,Pending,Corporate
+125,Client_125,1974-07-28,51,Germany,client125@example.com,2025-10-09,Under Review,Individual
+126,Client_126,1952-03-16,73,UK,client126@example.com,2024-10-28,Verified,Business
+127,Client_127,1977-01-02,48,Switzerland,client127@example.com,2024-11-16,Verified,Business
+128,Client_128,1980-04-13,45,Canada,client128@example.com,2024-11-29,Verified,Business
+129,Client_129,1988-12-29,36,Russia,client129@example.com,2024-10-28,Pending,Business
+130,Client_130,1997-03-05,28,USA,client130@example.com,2025-07-10,Verified,Individual
+131,Client_131,1992-03-14,33,UAE,client131@example.com,2025-05-14,Verified,Corporate
+132,Client_132,1995-11-05,29,China,client132@example.com,2024-12-06,Verified,Business
+133,Client_133,1982-10-06,43,Australia,client133@example.com,2025-05-29,Verified,Individual
+134,Client_134,1986-04-15,39,Germany,client134@example.com,2025-02-08,Verified,Business
+135,Client_135,1958-05-28,67,USA,client135@example.com,2025-02-12,Verified,Business
+136,Client_136,1968-09-23,57,Nigeria,client136@example.com,2025-09-12,Verified,Individual
+137,Client_137,1987-10-20,38,Switzerland,client137@example.com,2025-09-03,Verified,Corporate
+138,Client_138,1974-12-20,50,Australia,client138@example.com,2025-02-26,Verified,Corporate
+139,Client_139,1990-08-24,35,UAE,client139@example.com,2025-09-07,Verified,Individual
+140,Client_140,1964-11-21,60,USA,client140@example.com,2025-03-04,Under Review,Corporate
+141,Client_141,1974-08-01,51,Australia,client141@example.com,2025-10-07,Verified,Individual
+142,Client_142,1973-01-04,52,USA,client142@example.com,2024-11-25,Verified,Individual
+143,Client_143,1982-12-03,42,Switzerland,client143@example.com,2025-03-07,Under Review,Individual
+144,Client_144,1972-11-27,52,UAE,client144@example.com,2025-07-30,Verified,Corporate
+145,Client_145,1960-08-07,65,Nigeria,client145@example.com,2025-10-09,Under Review,Individual
+146,Client_146,1999-06-03,26,UK,client146@example.com,2024-11-12,Verified,Business
+147,Client_147,1997-06-23,28,Russia,client147@example.com,2025-06-01,Verified,Corporate
+148,Client_148,1996-08-10,29,Nigeria,client148@example.com,2025-06-17,Verified,Corporate
+149,Client_149,1998-07-19,27,UK,client149@example.com,2025-07-11,Verified,Corporate
+150,Client_150,1953-05-27,72,Germany,client150@example.com,2025-08-12,Verified,Corporate

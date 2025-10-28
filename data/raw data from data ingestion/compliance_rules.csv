@@ -1,0 +1,12 @@
+rule_id,rule_name,rule_description,rule_condition,risk_weight,active
+1,TRANSACTION RULE - High Transaction Amount,"Flag transactions greater than 10,000 EUR as potentially high risk.",transaction_amount > 10000,0.8,True
+2,TRANSACTION RULE - High-Risk Country (Origin),Flag transactions originating from high-risk countries.,"origin_country in [""Nigeria"", ""Russia""]",0.9,True
+3,TRANSACTION RULE - High-Risk Country (Destination),Flag transactions sent to high-risk countries.,"destination_country in [""Nigeria"", ""Russia""]",0.9,True
+4,CLIENT RULE - Unverified KYC,Flag clients whose KYC status is not verified.,"kyc_status != ""Verified""",0.7,True
+5,CLIENT RULE - Multiple Failed Transactions,Flag clients with more than 3 failed transactions in the last 30 days.,failed_tx_last_30_days > 3,0.6,True
+6,CLIENT RULE - Frequent Large Transactions,"Flag clients who have made more than 5 transactions >10,000 in the last 7 days.",large_tx_last_7_days > 5,0.7,True
+7,CLIENT RULE - Document Verification Failed,Flag clients whose identification document failed verification.,"verification_status == ""Failed""",0.85,True
+8,CLIENT RULE - Frequent cross-border transactions,Clients who have made frequent transactions across the border in last 90 days,cross_border_count > 5,0.6,True
+9,CLIENT RULE - Transactions to high-risk countries,Clients who have made transactions to high-risk countries,cross_border_count > 5,0.9,True
+10,TRANSACTION RULE - Cross-Border to High-Risk Country,Transactions to high-risk countries from non-risky countries,cross_border_to_high_risk == 1,0.9,True
+11,TRANSACTION RULE - Very large transaction by withdrawal,"Withdrawal amount of more than 10,000 EUR","(transaction_amount > 10000) and (transaction_type == ""Withdrawal"")",0.9,True

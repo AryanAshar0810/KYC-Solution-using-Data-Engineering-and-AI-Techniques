@@ -1,0 +1,11 @@
+country,risk_level,aml_compliance_score
+USA,Low,95
+UK,Low,92
+Germany,Low,94
+Switzerland,Medium,80
+Nigeria,High,45
+Russia,High,50
+China,Medium,65
+UAE,Medium,75
+Canada,Low,93
+Australia,Low,91
